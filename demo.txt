@@ -1,1 +1,2 @@
 this is 1st demo of github //line 1
+line 2 of the txt file
